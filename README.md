@@ -6,7 +6,7 @@
 
 Used 5 api for making this amazing app💛💛.
 * Used Google maps api for having the google map in our app.
-* Used Google places api for 1)having search recommendation while typing  2)having latitude and longitude of the place selected from recommendation.
+* Used Google places api for 1)having search recommendation while typing  2)having latitude and longitude of the place if its in google data.
 * Used built in Geolocation api for getting user's current latitude and longitude.
 * Used Travel Advisor api's 3 endpoints for having 1)hotel details in boundries defined,2)restaurants details in boundries defined and 3)attraction details in boundries defined. The detail includes image,pricing,website link,phone,rating,certification,link to website reviews in tripadvisor and all other stuff,if present.
 * Used Open Weather Map api for getting weather data in the boundry defined , if present.
