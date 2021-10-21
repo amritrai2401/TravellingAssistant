@@ -1,11 +1,14 @@
-# A website which assist users while travelling by-:
-
+# A website which assist users while travelling.
+* Gives all data(mobno,ratings,price,etc) about hotels,restaurants,toutrist attractions and u can filter it by ratings.
+* It provides link to tripadvisor.in for reviews and more info about the restaurants & hotels.
+* Gives data about the weather condition by showing on map.
+* Gives website link of the restaurant and hotel ,if they have.
 
 Used 5 api for making this amazing app💛💛.
 * Used Google maps api for having the google map in our app.
 * Used Google places api for 1)having search recommendation while typing  2)having latitude and longitude of the place selected from recommendation.
 * Used built in Geolocation api for getting user's current latitude and longitude.
-* Used Travel Advisor api's 3 endpoints for having 1)hotel details in boundries defined,2)restaurants details in boundries defined and 3)attraction details in boundries defined. The detail includes image,pricing,website,phone,rating,certification and all other stuff,if present.
+* Used Travel Advisor api's 3 endpoints for having 1)hotel details in boundries defined,2)restaurants details in boundries defined and 3)attraction details in boundries defined. The detail includes image,pricing,website link,phone,rating,certification,link to website reviews in tripadvisor and all other stuff,if present.
 * Used Open Weather Map api for getting weather data in the boundry defined , if present.
 
 
