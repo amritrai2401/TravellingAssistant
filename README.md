@@ -1,3 +1,6 @@
+# A website which assist users while travelling by-:
+
+
 Used 5 api for making this amazing app💛💛.
 * Used Google maps api for having the google map in our app.
 * Used Google places api for 1)having search recommendation while typing  2)having latitude and longitude of the place selected from recommendation.
