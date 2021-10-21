@@ -4,6 +4,8 @@
 * Gives data about the weather condition by showing on map.
 * Gives website link of the restaurant and hotel ,if they have.
 
+https://user-images.githubusercontent.com/86003701/138207641-b6294191-4166-497e-bf50-d1f5a052fee0.mp4
+
 Used 5 api for making this amazing app💛💛.
 * Used Google maps api for having the google map in our app.
 * Used Google places api for 1)having search recommendation while typing  2)having latitude and longitude of the place if its in google data.
@@ -20,3 +22,7 @@ Used useState for managing boundry changes,lat/longitude changes etc.
 Used useEffect,so that whenver user changes map either by searching,allowing to use location or manually by scrolling, Travel advisor & weather api requests data for the new boundries.
 
 Whenever user searches,allows its location to be used(instead of manually moving the map) a place it gets only latitude & longitude of a particular point, so I mantained the boundries of map [50,50,50,50] units away from the central point user got when searched.
+
+
+
+
