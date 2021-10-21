@@ -1,10 +1,11 @@
+https://user-images.githubusercontent.com/86003701/138207641-b6294191-4166-497e-bf50-d1f5a052fee0.mp4
+
 # A website which assist users while travelling.
 * Gives all data(mobno,ratings,price,etc) about hotels,restaurants,toutrist attractions and u can filter it by ratings.
 * It provides link to tripadvisor.in for reviews and more info about the restaurants & hotels.
 * Gives data about the weather condition by showing on map.
 * Gives website link of the restaurant and hotel ,if they have💙💙
 
-https://user-images.githubusercontent.com/86003701/138207641-b6294191-4166-497e-bf50-d1f5a052fee0.mp4
 
 Used 5 api for making this amazing app💛💛.
 * Used Google maps api for having the google map in our app.
