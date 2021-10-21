@@ -6,10 +6,9 @@ Used 5 api for making this amazing app💛💛.
 * Used Open Weather Map api for getting weather data in the boundry defined , if present.
  
 
+Whenever we select any category like hotels,restaurants,rating above 4.5 etc, we pass the that category things in a collection_items which is then passed to Google maps component as collection_items.map(with latitude & longitude of items)(.map is used for external things to be shown on google maps).
 
 
-Used useEffect,so that whenver user changes map either by searching,allowing to use location or manually by scrolling, Travel advisor requests data for the new boundries.
+Used useEffect,so that whenver user changes map either by searching,allowing to use location or manually by scrolling, Travel advisor & weather api requests data for the new boundries.
 
 Whenever user searches,allows its location to be used(instead of manually moving the map) a place it gets only latitude & longitude of a particular point, so I mantained the boundries of map [50,50,50,50] units away from the central point user got when searched.
-
-Used 
