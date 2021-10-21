@@ -20,8 +20,10 @@ Whenever we select any category like hotels,rating above 4.5 etc, we pass the th
 
 Used MaterialUi for icons,searchbox styling,circular progress(loading) component.💛
 
-Used useState for managing boundry changes,lat/longitude changes,loading component etc.
-eg-: if loading set to true it will rotate(prebuit rotation feature by material ui).
+
+Used useState for managing state,i.e, like numbers(boundry changes,lat/longitude changes,loading component) when they will increase/decerease etc.
+
+Used useState for managing bool(loading component) when they will set to true/false.
 
 Used useEffect,so that whenver user changes map either by searching,allowing to use location or manually by scrolling, Travel advisor & weather api requests data for the new boundries. When This useeffect starts,we set the loading = true and when all data restaurant,hotel etc data is fetched we set the loading = false and return the data.
 
