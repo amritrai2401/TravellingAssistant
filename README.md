@@ -1,18 +1,14 @@
 https://user-images.githubusercontent.com/86003701/138207641-b6294191-4166-497e-bf50-d1f5a052fee0.mp4
 
-Used React app for making frontend/Client.
-
 Used 5 Api(google maps,google places,open weather map, geolocation, travel advisor) for fetching data.
 
-The website provides-:
+A React(frontend) website which helps travellers by providing following data of place they search-:
 
 • Data(mobno,ratings,price,etc) about hotels, restaurants,tourist attractions & you can filter it by ratings.
 
-• Link to tripadvisor.in for reviews and more info about a particular restaurants & hotels.
+• Link to hotel/restaurant's tripadvisor page & link to its own website for more information.
 
-• Weather condition by on map.
-
-• Link of the website of the particular restaurant and hotel, if they have.
+• Weather condition of thar place on map.
 
 
 # More details-:
