@@ -6,7 +6,7 @@ Used 5 Api(google maps,google places,open weather map, geolocation, travel advis
 
 The website provides-:
 
-• Data(mobno,ratings,price,etc) about hotels, restaurants,tourist attractions and u can filter it by ratings.
+• Data(mobno,ratings,price,etc) about hotels, restaurants,tourist attractions & you can filter it by ratings.
 
 • Link to tripadvisor.in for reviews and more info about a particular restaurants & hotels.
 
