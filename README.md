@@ -1,14 +1,22 @@
 https://user-images.githubusercontent.com/86003701/138207641-b6294191-4166-497e-bf50-d1f5a052fee0.mp4
 
-# A website which assist users while travelling.
-* Gives all data(mobno,ratings,price,etc) about hotels,restaurants,tourist attractions and u can filter it by ratings.
-* It provides link to tripadvisor.in for reviews and more info about the restaurants & hotels.
-* Gives data about the weather condition by showing on map.
-* Gives website link of the restaurant and hotel ,if they have💙💙
+Used React app for making frontend/Client.
+
+Used 5 different Api(google maps, google places, open weather map, geolocation, travel advisor) for fetching the required data.
+
+The website provides-:
+
+• Data(mobno,ratings,price,etc) about hotels, restaurants,tourist attractions and u can filter it by ratings.
+
+• Link to tripadvisor.in for reviews and more info about a particular restaurants & hotels.
+
+• Weather condition by on map.
+
+• Link of the website of the particular restaurant and hotel, if they have.
 
 
-
-# Used 5 api for making this amazing app💛💛.
+# More details-:
+Used 5 api for making this amazing in following ways💛💛.
 * Used Google maps api for having the google map in our app.
 * Used Google places api for 1)having search recommendation while typing  2)having latitude and longitude of the place if its in google data.
 * Used built in Geolocation api for getting user's current latitude and longitude.
