@@ -2,7 +2,7 @@ https://user-images.githubusercontent.com/86003701/138207641-b6294191-4166-497e-
 
 Used React app for making frontend/Client.
 
-Used 5 different Api(google maps, google places, open weather map, geolocation, travel advisor) for fetching the required data.
+Used 5 Api(google maps,google places,open weather map, geolocation, travel advisor) for fetching data.
 
 The website provides-:
 
