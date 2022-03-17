@@ -12,7 +12,7 @@ A React(frontend) website which helps travellers by providing following data of 
 
 
 # More details-:
-Used 5 api for making this amazing in following ways💛💛.
+Used 5 api for making this website in following ways💛💛.
 * Used Google maps api for having the google map in our app.
 * Used Google places api for 1)having search recommendation while typing  2)having latitude and longitude of the place if its in google data.
 * Used built in Geolocation api for getting user's current latitude and longitude.
